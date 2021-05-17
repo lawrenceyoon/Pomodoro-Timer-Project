@@ -1,6 +1,7 @@
 import React from 'react';
+import { minutesToDuration } from '../utils/duration/index';
 
-const Focus = ({ minutesToDuration, focusDuration, setFocusDuration }) => {
+const Focus = ({ session, focusDuration, setFocusDuration }) => {
   // event handlers
   const handleMinusClick = () => {
     focusDuration <= 5
@@ -28,6 +29,7 @@ const Focus = ({ minutesToDuration, focusDuration, setFocusDuration }) => {
             className="btn btn-secondary"
             data-testid="decrease-focus"
             onClick={handleMinusClick}
+            disabled={session ? true : false}
           >
             <span className="oi oi-minus" />
           </button>
@@ -37,6 +39,7 @@ const Focus = ({ minutesToDuration, focusDuration, setFocusDuration }) => {
             className="btn btn-secondary"
             data-testid="increase-focus"
             onClick={handlePlusClick}
+            disabled={session ? true : false}
           >
             <span className="oi oi-plus" />
           </button>
@@ -47,3 +50,5 @@ const Focus = ({ minutesToDuration, focusDuration, setFocusDuration }) => {
 };
 
 export default Focus;
+
+

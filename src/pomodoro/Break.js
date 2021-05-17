@@ -1,6 +1,7 @@
 import React from 'react';
+import { minutesToDuration } from '../utils/duration/index';
 
-const Break = ({ minutesToDuration, breakDuration, setBreakDuration }) => {
+const Break = ({ session, breakDuration, setBreakDuration }) => {
   // event handlers
   const handleMinusClick = () => {
     breakDuration <= 1
@@ -29,6 +30,7 @@ const Break = ({ minutesToDuration, breakDuration, setBreakDuration }) => {
               className="btn btn-secondary"
               data-testid="decrease-break"
               onClick={handleMinusClick}
+              disabled={session ? true : false}
             >
               <span className="oi oi-minus" />
             </button>
@@ -38,6 +40,7 @@ const Break = ({ minutesToDuration, breakDuration, setBreakDuration }) => {
               className="btn btn-secondary"
               data-testid="increase-break"
               onClick={handlePlusClick}
+              disabled={session ? true : false}
             >
               <span className="oi oi-plus" />
             </button>
