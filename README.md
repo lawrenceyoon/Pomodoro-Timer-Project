@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# Pomodoro Timer Project
 
 A replicated Pomodoro Timer from Thinkful's course.
 * Focus Duration
