@@ -22,5 +22,5 @@ A replicated Pomodoro Timer.
   * On click, will refresh timer, but will keep your focus duration and break duration settings.
 
 
-## Click to view App
+## App deployed through Vercel
 https://project-pomodoro-timer-qualified-1-gray.vercel.app/
