@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-A replicated Pomodoro Timer.
+A replicated Pomodoro Timer from Thinkful's course.
 * Focus Duration
   * Default is set to 25 minutes. Goes up or down by intervals of 5
   * Minus button decreases by 5 (can't go lower than 5 min)
