@@ -1,4 +1,4 @@
-# thinkful-Project_Pomodoro_Timer
+# Pomodoro Timer
 
 A replicated Pomodoro Timer.
 * Focus Duration
