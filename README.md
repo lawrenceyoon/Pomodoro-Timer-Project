@@ -4,7 +4,7 @@
 https://project-pomodoro-timer-qualified-1-gray.vercel.app/
 
 ## Context
-This React app is a replicated Pomodoro Timer from Thinkful's course. I collaborated with a two others to see the power of teamwork, focus on pair programming (our case was one driver, 2 navigators), and to demonstrate our knowledge of the coursework so far. We were learning React in this stage and found this project to really solidify our understanding of how state, props, and components are broken down.
+This React app is a replicated Pomodoro Timer from Thinkful's course. I collaborated with two others for this project. This taught me the importance of teamwork, what pair programming is about (our case was one driver, 2 navigators), and was a reason to showcase our knowledge of the coursework so far. We were learning React in this stage and found this project to really solidify our understanding of how state, props, and components were broken down.
 
 ## Intention
 Pomodoro Timer is great for those who have a hard time focusing (especially students). You can set a focus timer for 25 (default) minutes, then take a 5 (default) min breather. It is recommended you focus on anything else other than what you were doing, such as going for a quick walk to clear your mind or getting some quick snacks. 
