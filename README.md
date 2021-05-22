@@ -34,7 +34,7 @@ Pomodoro Timer is great for those who have a hard time focusing (especially stud
 HTML, CSS, JavaScript, ReactJS (hooks), NodeJS, Jest. Deployed via Vercel. We were learning React in this stage and found this project to really solidify our understanding of how state, props, and components are broken down.
  
 ## Discoveries
-There were some pre-built functions included. Our group didn't know what each function was doing, so we debugged using VSCode and console.logged almost everywhere! It was great practice for working in the real world, because eventually we will work with a codebase that already exists, and researching was a crucial part in our success.
+There were some pre-built functions included. Our group didn't know what each function was doing, so we debugged using VSCode and console.logged almost everywhere! It was great practice for working in the real world, because eventually we will work with a codebase that already exists, and researching was a crucial part for our success.
 
 ## Future Goals
 I am thinking about adding more styles to this React app, as it looks pretty basic right now.
