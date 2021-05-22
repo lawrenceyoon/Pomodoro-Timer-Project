@@ -7,7 +7,7 @@ https://project-pomodoro-timer-qualified-1-gray.vercel.app/
 This React app is a replicated Pomodoro Timer from Thinkful's course. I collaborated with a two others to see the power of teamwork, focus on pair programming (our case was one driver, 2 navigators), and to demonstrate our knowledge of the coursework so far.
 
 ## Intention
-Pomodoro Timer is great for those who have a hard time focusing (especially students). You can set a focus timer for 25 (default) minutes, then take a 5 (default) min breather. It is recommended you focus on anything else than what you were doing, such as going for a quick walk to clear your mind or getting some quick snacks. 
+Pomodoro Timer is great for those who have a hard time focusing (especially students). You can set a focus timer for 25 (default) minutes, then take a 5 (default) min breather. It is recommended you focus on anything else other than what you were doing, such as going for a quick walk to clear your mind or getting some quick snacks. 
 
 ## Functionality
 * Focus Duration
