@@ -14,7 +14,7 @@ Pomodoro Timer is great for those who have a hard time focusing (especially stud
   * Default is set to 25 minutes. Goes up or down by intervals of 5
   * Minus button decreases by 5 (can't go lower than 5 min)
   * Plus button increases by 5 (can't go above 60 min)
-![Focus Duration Image](./imgs/focus.png?raw=true "Focus Duration")
+[Focus Duration Image](./imgs/focus.png?raw=true "Focus Duration")
 
   
 * Break Duration
