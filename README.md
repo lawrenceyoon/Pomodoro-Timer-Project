@@ -30,6 +30,7 @@ Pomodoro Timer is great for those who have a hard time focusing (especially stud
   - Pausing stops the timer, displays a "Paused" text, stops the progress
   - If timer reaches the end on focus, will sound an alarm, then automatically jump to break and vice versa
     ![Play Button Press](/public/imgs/play.png?raw=true 'Play Button')
+    ![Paused](/public/imgs/paused.png?raw=true 'Paused')
 - Stop button
   - Disabled at the start
   - On click, will refresh timer, but will keep your focus duration and break duration settings.
